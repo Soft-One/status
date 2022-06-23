@@ -22,9 +22,9 @@
     "url": "https://sportevents.com.co/admin/#/login",
     "icon": "https://favicons.githubusercontent.com/sportevents.com.co",
     "slug": "sport-events-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 31,
     "timeMonth": 38,
     "timeYear": 41,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-23": 0
+    }
   },
   {
     "name": "SoftOne",
