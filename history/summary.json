@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 67,
-    "timeWeek": 160,
-    "timeMonth": 192,
-    "timeYear": 210,
+    "time": 211,
+    "timeDay": 330,
+    "timeWeek": 168,
+    "timeMonth": 201,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -24,14 +24,14 @@
     "slug": "sport-events-admin",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 41,
-    "timeDay": 23,
-    "timeWeek": 31,
-    "timeMonth": 38,
+    "timeDay": 77,
+    "timeWeek": 34,
+    "timeMonth": 40,
     "timeYear": 41,
     "dailyMinutesDown": {
       "2022-06-23": 19
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 73,
-    "timeWeek": 195,
-    "timeMonth": 164,
+    "timeDay": 49,
+    "timeWeek": 170,
+    "timeMonth": 162,
     "timeYear": 150,
     "dailyMinutesDown": {}
   }
