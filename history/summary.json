@@ -4,19 +4,19 @@
     "url": "https://sportevents.com.co/home",
     "icon": "https://favicons.githubusercontent.com/sportevents.com.co",
     "slug": "sport-events-public",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "74.29%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "73.66%",
+    "uptimeWeek": "96.24%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.83%",
     "time": 210,
-    "timeDay": 271,
-    "timeWeek": 206,
-    "timeMonth": 204,
+    "timeDay": 296,
+    "timeWeek": 221,
+    "timeMonth": 213,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2022-07-05": 370
+      "2022-07-05": 379
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sportevents.com.co/admin/#/login",
     "icon": "https://favicons.githubusercontent.com/sportevents.com.co",
     "slug": "sport-events-admin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "74.32%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "99.11%",
+    "uptimeDay": "73.69%",
+    "uptimeWeek": "96.24%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.82%",
     "time": 41,
-    "timeDay": 59,
-    "timeWeek": 40,
-    "timeMonth": 41,
+    "timeDay": 68,
+    "timeWeek": 44,
+    "timeMonth": 43,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2022-07-05": 370,
+      "2022-07-05": 379,
       "2022-06-23": 19
     }
   },
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 82,
+    "timeDay": 0,
     "timeWeek": 136,
-    "timeMonth": 156,
+    "timeMonth": 158,
     "timeYear": 148,
     "dailyMinutesDown": {}
   }
