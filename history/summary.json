@@ -4,7 +4,7 @@
     "url": "https://sportevents.com.co/home",
     "icon": "https://favicons.githubusercontent.com/sportevents.com.co",
     "slug": "sport-events-public",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "74.29%",
     "uptimeWeek": "96.33%",
@@ -16,6 +16,7 @@
     "timeMonth": 213,
     "timeYear": 210,
     "dailyMinutesDown": {
+      "2022-07-06": 0,
       "2022-07-05": 370
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://sportevents.com.co/admin/#/login",
     "icon": "https://favicons.githubusercontent.com/sportevents.com.co",
     "slug": "sport-events-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "74.33%",
     "uptimeWeek": "96.33%",
@@ -36,6 +37,7 @@
     "timeMonth": 43,
     "timeYear": 41,
     "dailyMinutesDown": {
+      "2022-07-06": 0,
       "2022-07-05": 370,
       "2022-06-23": 19
     }
