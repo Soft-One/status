@@ -6,17 +6,17 @@
     "slug": "sport-events-public",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "73.66%",
-    "uptimeWeek": "96.24%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "74.29%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "99.83%",
     "time": 210,
-    "timeDay": 296,
-    "timeWeek": 221,
+    "timeDay": 309,
+    "timeWeek": 243,
     "timeMonth": 213,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2022-07-05": 379
+      "2022-07-05": 370
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "sport-events-admin",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "73.69%",
-    "uptimeWeek": "96.24%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "74.33%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.82%",
     "time": 41,
     "timeDay": 68,
-    "timeWeek": 44,
+    "timeWeek": 49,
     "timeMonth": 43,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2022-07-05": 379,
+      "2022-07-05": 370,
       "2022-06-23": 19
     }
   },
@@ -53,7 +53,7 @@
     "uptimeYear": "100.00%",
     "time": 148,
     "timeDay": 0,
-    "timeWeek": 136,
+    "timeWeek": 145,
     "timeMonth": 158,
     "timeYear": 148,
     "dailyMinutesDown": {}
