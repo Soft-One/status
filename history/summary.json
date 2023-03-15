@@ -4,9 +4,9 @@
     "url": "https://sportevents.com.co/home",
     "icon": "https://icons.duckduckgo.com/ip3/sportevents.com.co.ico",
     "slug": "sport-events-public",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 157,
     "timeYear": 186,
     "dailyMinutesDown": {
+      "2023-03-15": 0,
       "2022-07-06": 62,
       "2022-07-05": 370
     }
@@ -25,9 +26,9 @@
     "url": "https://sportevents.com.co/admin/#/login",
     "icon": "https://icons.duckduckgo.com/ip3/sportevents.com.co.ico",
     "slug": "sport-events-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -37,6 +38,7 @@
     "timeMonth": 29,
     "timeYear": 35,
     "dailyMinutesDown": {
+      "2023-03-15": 0,
       "2022-07-06": 62,
       "2022-07-05": 370,
       "2022-06-23": 19
