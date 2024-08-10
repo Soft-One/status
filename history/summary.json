@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sportevents.com.co.ico",
     "slug": "sport-events-public",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 166,
-    "timeDay": 127,
-    "timeWeek": 128,
-    "timeMonth": 159,
+    "timeDay": 73,
+    "timeWeek": 96,
+    "timeMonth": 151,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-07-04": 126
+      "2024-07-04": 63
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sportevents.com.co.ico",
     "slug": "sport-events-admin",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 30,
-    "timeDay": 20,
-    "timeWeek": 19,
-    "timeMonth": 25,
+    "uptimeYear": "99.99%",
+    "time": 29,
+    "timeDay": 6,
+    "timeWeek": 12,
+    "timeMonth": 22,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2024-07-04": 126
+      "2024-07-04": 63
     }
   },
   {
@@ -45,18 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/softone.com.co.ico",
     "slug": "soft-one",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 101,
-    "timeWeek": 142,
-    "timeMonth": 117,
-    "timeYear": 120,
-    "dailyMinutesDown": {
-      "2024-07-04": 126
-    }
+    "timeDay": 97,
+    "timeWeek": 89,
+    "timeMonth": 118,
+    "timeYear": 119,
+    "dailyMinutesDown": {}
   }
 ]
